@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+body{
+
+    background-color: coral;
+
+
+}
+h2{
+    font-style: italic;
+    padding: 2.1px;
+}
+
+form {
+    text-align: center;
+    font-style: oblique;
+}
+
